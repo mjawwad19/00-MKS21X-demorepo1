@@ -1,8 +1,8 @@
-What happened?
+__What happened?__
 The atom command does not exist, and/or  not found in bash or cmd.
 yes, I looked up and added in path for system enviromental variables C:.... atom/bin
 
-THE FIX I FOUND after numerous google searches
+__the fix__
 1. open terminal
 2. cd %localappdata%
    cd atom

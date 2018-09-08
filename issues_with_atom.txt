@@ -1,4 +1,4 @@
-# The atom command does not exist. Not found in bash or cmd.
+The atom command does not exist. Not found in bash or cmd.
 
 yes, I looked up and added in path for enviromental variables .... atom/bin
 

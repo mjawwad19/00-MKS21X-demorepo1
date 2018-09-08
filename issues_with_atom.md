@@ -1,12 +1,12 @@
-__What happened?__
+__the problem__
 The atom command does not exist, and/or  not found in bash or cmd.
 yes, I looked up and added in path for system enviromental variables C:.... atom/bin
 
-__the fix__
-1. open terminal
-2. cd %localappdata%
+__The fix__
+1) open terminal
+2) cd %localappdata%
    cd atom
    cd app-1.30.0 [the version you have, can check in atom, help]
    atom.exe --squirrel-install
-3. if there is nothing returned back try testing the command atom.
-4. SUCCESS!
+3) if there is nothing returned back try testing the command atom.
+4) **SUCCESS!**

@@ -1,7 +1,6 @@
 __the problem:__
 
-The atom command does not exist, and/or  not found in bash or cmd.
-yes, I looked up and added in path for system enviromental variables C:.... atom/bin
+The atom command does not exist, and/or  not found in bash or cmd, even though there is a path for system enviromental variables C:.... atom/bin
 
 __The fix:__
 1) open terminal
